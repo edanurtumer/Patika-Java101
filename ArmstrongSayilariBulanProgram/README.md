@@ -1,4 +1,4 @@
-# Patika-Java101
+# Armstrong Sayıları Bulan Program
 
 Java döngüler ile sayının armstrong sayı olup olmadığını bulan programı yazıyoruz.
 
