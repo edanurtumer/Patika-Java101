@@ -1,2 +1,2 @@
-# Patika-Java101
-https://app.patika.dev/edanur_tumer
+# 1-100 Arasındaki Asal Sayıları Bulan Program
+Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız.
