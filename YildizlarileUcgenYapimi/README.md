@@ -1,2 +1,3 @@
-# Patika-Java101
-https://app.patika.dev/edanur_tumer
+# Yıldızlar ile Üçgen Yapımı
+Ödev
+Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
