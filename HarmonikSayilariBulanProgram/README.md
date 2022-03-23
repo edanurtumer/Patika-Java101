@@ -1,2 +1,3 @@
-# Patika-Java101
+# Harmonik Sayıları Bulan Program
+Java ile girilen sayının harmonik serisini bulan program yazacağız.
  
